@@ -1,4 +1,4 @@
-# nlp-sentiment-analysis
+# NLP Sentiment Analysis
 
 ## An Amazon reviews sentiment analysis using NLTK
 
